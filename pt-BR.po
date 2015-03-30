@@ -6730,22 +6730,22 @@ msgid "By submitting this item to Steam, you agree to the"
 msgstr "Ao enviar este item ao Steam, você concorda com os"
 
 msgid "Steam Workshop terms of service"
-msgstr "termos de serviço da Oficina Steam"
+msgstr "Termos de serviço da Oficina Steam"
 
 msgid "Tutorials"
-msgstr "tutoriais"
+msgstr "Tutoriais"
 
 msgid "Hardware"
 msgstr "ferragens"
 
 msgid "Player"
-msgstr ""
+msgstr "Jogador"
 
 msgid "you"
-msgstr ""
+msgstr "você"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Um obrigado especial a {0} por comprar o jogo e nos auxiliar!"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "Formação G3"
